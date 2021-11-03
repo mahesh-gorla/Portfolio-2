@@ -11,7 +11,7 @@
 		"react-scripts": "3.0.1",
 		"roboto-npm-webfont": "^1.0.1",
 		"scroll-to": "0.0.2",
-		"validator": "^11.1.0"
+		"validator": "^13.7.0"
 	},
 	"scripts": {
 		"start": "react-scripts start",
